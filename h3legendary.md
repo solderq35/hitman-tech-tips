@@ -1,4 +1,4 @@
-## Legendary (Epic Games Launcher Alternative) for Hitman 3
+###Legendary (Epic Games Launcher Alternative) for Hitman 3
 Do you hate how Epic Games Launcher hogs disk space/ RAM, and having to wait for the Epic Games Launcher to boot up?
 
 You can technically play Hitman 3 without going through the Epic Game Launcher, by using Legendary: https://github.com/derrod/legendary
