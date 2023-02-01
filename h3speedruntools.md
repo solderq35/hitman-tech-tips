@@ -16,7 +16,7 @@ Some of the below mods are SMF (Simple Mod Framework) mods. Download the SMF ins
 - [Big Darts, see Darts in Instinct](https://www.mediafire.com/file/p4e902qiisuis3w/BigDarts_%2528SMF2.0%2529.zip/file) (SMF mod)
 - Speedhack - natively provided by [CheatEngine](https://www.cheatengine.org/), [example](https://i.imgur.com/CfBBfI9.jpeg)
 - [Infinite Ammo](https://www.nexusmods.com/hitman3/mods/305?tab=description)
-- [Many Items Peacock Plugin](https://discord.com/channels/826809653181808651/839264571990343681/973355230857142343)
+- [Many Items Peacock Plugin](https://discord.com/channels/826809653181808651/1070267340979187763/1070418378306617368)
 	- Note: You'll need to join the Peacock Discord and install Peacock first. Check: https://thepeacockproject.org/wiki/intel/installation and https://thepeacockproject.org/wiki/custom-content#plugins
 	- Gives 100x of any item in inventory
 
