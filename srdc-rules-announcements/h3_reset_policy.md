@@ -1,5 +1,5 @@
 ### Reset Policy for Bangkok Default Start and Sgail Chapel Start
-  * If the player resets before 10 in game seconds into Bangkok Default Start or Sgail Chapel Start, the time of the reset will be increased to 10 seconds (with possible exceptions due to bringing the wrong loadout or using wrong starting locations. If the reset is before Jordan Cross/ firepit appears in the opening cutscene, penalty also will not be applied).
+  * If the player resets mid-cutscene into the level at Bangkok Default Start or Sgail Chapel Start, the reset penalty may be arbitrarily increased (up to +10 seconds penalty) at moderator discretion, if it appears that the player is resetting to farm good cutscene RNG.
     * The rule for Bangkok Riverside Start runs is due to a cutscene exploit where you can tell Jordan cycle RNG based on how he moves in the cutscene, and reset mid-cutscene if there is bad Jordan RNG for zero in-game time penalty.
 Example: https://www.speedrun.com/hitman_3/run/m3n08pgy
     * The rule for Sgail Chapel start is because it is possible for the firepit to be randomly lit before the Sgail level even loads, and you can observe if the firepit is lit via the opening cutscene, resetting mid-cutscene until the firepit is pre-lit.
