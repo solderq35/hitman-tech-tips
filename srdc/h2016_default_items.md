@@ -1,4 +1,4 @@
-### H2016 0 Mastery Items
+## H2016 0 Mastery Items
 Source (Information also verified in-game): https://steamcommunity.com/sharedfiles/filedetails/?id=1276962557
 
 The following Items require 0 mastery and are unlocked on a fresh copy of Hitman (2016).
