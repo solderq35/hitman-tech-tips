@@ -1,9 +1,9 @@
 ## Update SMF Mods
 
-As of the latest version of SMF, you can update SMF mods by pressing a button when prompted: ![](https://media.discordapp.net/attachments/826809653744762932/1070066810336071790/image.png
+As of the latest version of SMF, you can update SMF mods by pressing a button when prompted: ![](https://media.discordapp.net/attachments/826809653744762932/1070066810336071790/image.png)
 
 ------------------------------------------------------------------
-The method below also works but is more work:
+The method below is still valid but takes longer:
 
 (NOTE: Only applies if a mod was broken by SMF itself and not by a game update). You'll know that's the case if you see this kind of warning: ![Picture](https://media.discordapp.net/attachments/1018323831468851202/1047814554169647184/image.png)
 
