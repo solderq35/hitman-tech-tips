@@ -1,10 +1,10 @@
-### Reset Policy for Bangkok Default Start and Sgail Chapel Start
+## Reset Policy for Bangkok Default Start and Sgail Chapel Start
   * If the player resets mid-cutscene into the level at Bangkok Default Start or Sgail Chapel Start, the reset penalty may be arbitrarily increased (up to +10 seconds penalty) at moderator discretion, if it appears that the player is resetting to farm good cutscene RNG.
     * The rule for Bangkok Riverside Start runs is due to a cutscene exploit where you can tell Jordan cycle RNG based on how he moves in the cutscene, and reset mid-cutscene if there is bad Jordan RNG for zero in-game time penalty.
 Example: https://www.speedrun.com/hitman_3/run/m3n08pgy
     * The rule for Sgail Chapel start is because it is possible for the firepit to be randomly lit before the Sgail level even loads, and you can observe if the firepit is lit via the opening cutscene, resetting mid-cutscene until the firepit is pre-lit.
 
-### Reset Policy for runs with game crash or disconnection error
+## Reset Policy for runs with game crash or disconnection error
 The following cases will result in being able to reset the level with no time penalty, no matter how far you were into the level:
 * You get a connection error that forces you back to the main menu, like "could not load the requested menu" (recording must continue to being reconnected)
 * Your game crashes (recording must continue through the crash and to the game being reopened)
@@ -15,7 +15,7 @@ The following cases will result in being able to reset the level with no time pe
 * **If you reset or die during a run, lack of timer HUD will result in automatic rejection**
     * Go to Options > Gameplay > HUD > Mission Timer to turn this setting on
 
-### Policy for runs with glitched or missing rating screen (including Romania syringe unskippable cutscene glitch)
+## Policy for runs with glitched or missing rating screen (including Romania syringe unskippable cutscene glitch)
 **SA and SASO runs will be rejected if the rating screen is missing.**
 * All SA or SASO runs will require a rating screen due to possible discrepancies between SA tracker and rating screen, in terms of rating. Glitched Peacock rating screen is acceptable for this, assuming the rating screen shows "Silent Assassin".
 
