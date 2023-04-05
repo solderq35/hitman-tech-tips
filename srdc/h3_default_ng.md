@@ -24,4 +24,5 @@ You can think of Default NG ("New Game") as meaning "Default Settings on a First
   * Use Diana Dance Floor Exit
   * Wait for Diana's exit symbol to show up, then shoot at Dance Floor to panic her and lock the Dance Floor Exit and unlock other exits (as you would need to on new copy of game)
   * Check that Diana is already on dance floor using Instinct, in which case you can shoot at Dance Floor before the Dance Floor Exit opens. 
+  * [More info on NG Mendoza Exit / Reasoning for these rules](https://github.com/solderq35/hitman-tech-tips/blob/main/srdc/ng_mendoza.md)
 * In Colorado, must investigate the 2 clues in the tornado shelter, and then use the tornado exit
