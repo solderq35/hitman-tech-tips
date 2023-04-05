@@ -1,4 +1,4 @@
-### H3 Standard Category Banned Techniques/ Glitches
+## H3 Standard Category Banned Techniques/ Glitches
 * Any trick that is not possible in current Hitman 3 patch is banned (which can result in old submissions being moved to No Longer Possible Category)
 * Tranq glitch is banned (shoot target with Kalmer or use other sedative on them, kill with non-accident method right after, keep SA if body found)
 * Use of Midnight Suit in Mendoza banned (trespassing permissions are bugged)
