@@ -20,7 +20,9 @@ The purpose of this CSS script to expand the leaderboard to be wider for a bette
 4. You will be redirected to a Stylus page where you can add CSS code: 
 [Example](https://media.discordapp.net/attachments/833505136290299935/938605646104907776/unknown.png?width=786&height=613)
 
-5. Copy and paste the code from here into the Stylus page: https://gist.githubusercontent.com/solderq35/28a8dfeb75ab0d86e9a2edefad24f08d/raw
+5. Copy and paste the code from here into the Stylus page:
+* [Use this gist for wider leaderboard](https://gist.githubusercontent.com/solderq35/28a8dfeb75ab0d86e9a2edefad24f08d/raw)
+* [Use this gist for general improvements including blocking all ads](https://gist.githubusercontent.com/solderq35/d43d4800af09f928ccb0bd196e2c4c18/raw)
 
 6. You can edit the style's name, if you wish. Then, click on "Save". You are now done!
 [Example](https://media.discordapp.net/attachments/833505136290299935/938608753215938570/unknown.png?width=689&height=613)
