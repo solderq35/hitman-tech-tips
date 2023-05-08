@@ -1,10 +1,19 @@
 /*
-    This script is based on a version originally created by sandro-h and updated by B3akers.
+    Hitman 3 IGT Tracker (Main Game Mode), Epic Games Version
+
+    This script is based on a version originally created by sandro-h and updated by B3akers, fu5ha, emcifuntik, mob1lity
+    (Github usernames of all involved).
+
+    I (Solderq35) claim no credit for contributing to this autosplitter file, I just re-uploaded mob1lity's most recent version 
+    (with his permission) to Github for version control purposes.
+
+    More Info on Attributions: https://hitruns-wiki.vercel.app/docs/livesplit_auto_official#main-game-mode
 
     This script tracks Hitman 3 ingame time in LiveSplit.
     * It does NOT auto-split
     * It tracks time across levels and level restarts
     * It pauses in menus, including inventory
+    * IGT is intended timing method for main game mode speedruns, due to historicity and console inclusion, among other reasons
 
 */
 
