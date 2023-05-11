@@ -2,7 +2,7 @@
 Some of the below mods are SMF (Simple Mod Framework) mods. Download the SMF installer here: https://www.nexusmods.com/hitman3/mods/200?tab=files
 
 ### Updating old SMF mods
-- https://rentry.org/h3_update_smf
+- https://github.com/solderq35/hitman-tech-tips/blob/main/modding/h3_update_smf.md
 	- Only will fix mods broken by SMF update, will not fix mods broken by game update
 
 ### List of Tools (non-exhaustive)
