@@ -1,6 +1,6 @@
 ## Hitman 3 Ansel Freecam Unlock Installation / Use Guide
 
-**If you need further troubleshooting please ask in Glacier Modding Discord (in upper right of this website): https://notex.app/**
+**If you need further troubleshooting please ask in [Glacier Modding Discord](https://discord.gg/6UDtuYhZP6)**
 
 ### CheatEngine Freecam
 - PC, **Nvidia Graphics Card (that can run Ansel) Required**
