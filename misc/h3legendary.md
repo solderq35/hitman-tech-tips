@@ -55,21 +55,25 @@ It will allow you to open the game with one command in the command prompt.
 
 IMPORTANT: Replace line 1 with the file path of wherever you have installed `legendary.exe`
 
-`cd "C:\Users\Legion\OneDrive\Documents"`
-`legendary.exe launch Eider -SKIP_LAUNCHER`
-`exit`
+```
+cd "C:\Users\<username>\OneDrive\Documents"
+legendary.exe launch Eider -SKIP_LAUNCHER
+exit
+```
 
 Alternative batch file if you have [Peacock](https://thepeacockproject.org/wiki/intel/) 
 IMPORTANT: Replace line 1 and line 3 with the file paths of where you installed `legendary.exe` and Peacock, respectively.
 Rename `Start Server.cmd to StartServer.cmd`
 Note: the file path in line 3 must refer to the folder in which `peacockpatcher.exe` and `StartServer.cmd` are located.
 
-`cd "C:\Users\Legion\OneDrive\Documents"`
-`legendary.exe launch Eider -SKIP_LAUNCHER`
-`cd "C:\Users\Legion\OneDrive\Documents\peacockcurrent"`
-`start "" "Start Server.cmd"`
-`start PeacockPatcher.exe`
-`exit`
+```
+cd "C:\Users\<username>OneDrive\Documents"
+legendary.exe launch Eider -SKIP_LAUNCHER
+cd "C:\Users\<username>\OneDrive\Documents\peacockcurrent"
+start "" "Start Server.cmd"
+start PeacockPatcher.exe
+exit
+```
 
 #### General Advice
 Similar video tutorial: https://www.youtube.com/watch?v=J0r5HnQ3Bak
