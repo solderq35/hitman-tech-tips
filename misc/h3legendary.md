@@ -62,8 +62,11 @@ exit
 ```
 
 Alternative batch file if you have [Peacock](https://thepeacockproject.org/wiki/intel/) 
+
 IMPORTANT: Replace line 1 and line 3 with the file paths of where you installed `legendary.exe` and Peacock, respectively.
-Rename `Start Server.cmd to StartServer.cmd`
+
+Rename `Start Server.cmd` to `StartServer.cmd`
+
 Note: the file path in line 3 must refer to the folder in which `peacockpatcher.exe` and `StartServer.cmd` are located.
 
 ```
