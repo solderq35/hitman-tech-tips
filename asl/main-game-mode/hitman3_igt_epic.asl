@@ -1,11 +1,11 @@
 /*
     Hitman 3 IGT Tracker (Main Game Mode), Epic Games Version
 
-    This script is based on a version originally created by sandro-h and updated by B3akers, fu5ha, emcifuntik, mob1lity
+    This script is based on a version originally created by sandro-h and updated by B3akers, fu5ha, emcifuntik, mob1lity, quatilyti
     (Github usernames of all involved).
 
-    I (Solderq35) claim no credit for contributing to this autosplitter file, I just re-uploaded mob1lity's most recent version 
-    (with his permission) to Github for version control purposes.
+    I (Solderq35) claim no credit for contributing to this autosplitter file, I just re-uploaded the most recent versions (with permission)
+	to Github for version control purposes.
 
     More Info on Attributions: https://hitruns-wiki.vercel.app/docs/livesplit_auto_official#main-game-mode
 
@@ -101,13 +101,13 @@ state("HITMAN3", "Epic")
 {
     // Total ingame time since start of level (including starting cutscene)
     // 48 8B 0D ? ? ? ? 48 89 15 ? ? ? ? 48 89 05 ? ? ? ? - 3.110.1.0 sig
-    float LEVEL_IGT: 0x316DC08, 0x108;
+    float LEVEL_IGT: 0x316DCC8, 0x108;
 
     // Time spent in starting cutscene or other scenes without player control, e.g. walking through curtain in Dubai.
     // Starts counting along with IGT, but pauses once cutscene ends. When player loses control in game, it jumps
     // to the value of IGT, counts again and pauses when player regains control.
     // 48 8B 0D ? ? ? ? F3 0F 10 0D ? ? ? ? 48 81 C1 ? ? ? ? 48 8B 7C 24 ? - 3.110.1.0 sig
-    float LEVEL_CST: 0x30F3768, 0x898;
+    float LEVEL_CST: 0x30F3828, 0x898;
     
     // Alternate ingame time that starts after cutscene. Works for everything except start of Nightcall.
     // Does NOT stop at end-level cutscene, only when next screen starts loading.
@@ -118,7 +118,7 @@ state("HITMAN3", "Epic")
     // F3 0F 11 87 ? ? ? ? F3 0F 10 87 ? ? ? ? 0F 2F 05 ? ? ? ?  3.110.1.0 sig for an access to this value
     //   movss   dword ptr [rdi+110h], xmm0
     //
-    float ALT_IGT: 0x3C5A338, 0x110;
+    float ALT_IGT: 0x00000110, 0x110;
 }
 
 startup {
