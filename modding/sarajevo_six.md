@@ -1,3 +1,5 @@
+EDIT: As of August 2023, you can now purchase Sarajevo Six as paid DLC ($5). The mod has been taken down from NexusMods.
+
 ## Sarajevo Six Installation Guide
 
 ### Disclaimer
