@@ -22,9 +22,9 @@ Go back to Command Prompt after logging in.
 Type into Command Prompt: ```legendary list-games``` - Locate the "App name" by Hitman 3, it should be ```Eider```.
 
 #### If you already have Hitman 3 installed on your PC:
-Type ```legendary import-game Eider '<where you installed Hitman 3 previously>'```
+Type ```legendary import-game Eider "<where you installed Hitman 3 previously>"```
 
-Ex: ```legendary import-game Eider 'C:\Program Files\Epic Games\HITMAN3'``` (add single quotes around install location, since Program Files will cause an error otherwise since there is a space between Program and Files)
+Ex: ```legendary import-game Eider "C:\Program Files\Epic Games\HITMAN3"``` (add double quotes around install location, since Program Files will cause an error otherwise since there is a space between Program and Files)
 
 #### If you do not already have Hitman 3 installed on your PC:
 Then type ```legendary install Eider```. You may have to also repeat this step for the other HITMAN 3 DLC, refer to the above step for how to find the "App names" of each DLC.
