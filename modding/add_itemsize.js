@@ -13,7 +13,11 @@ let allunlockables = require("./allunlockables.json");
 const fs = require("fs");
 
 for (let i = 0; i < allunlockables.length; i++) {
-  if (allunlockables[i].Properties.LoadoutSlot === "gear") {
+  if (
+    allunlockables[i].Properties.LoadoutSlot === "gear" ||
+    allunlockables[i].Properties.LoadoutSlot === "concealedweapon" ||
+    allunlockables[i].Properties.LoadoutSlot === "carriedweapon"
+  ) {
     for (let j = 0; j < repochunk0.length; j++) {
       if (repochunk0[j].ID_ === allunlockables[i].Properties.RepositoryId) {
         allunlockables[i].Properties.ItemSize = repochunk0[j].ItemSize;
@@ -28,7 +32,9 @@ for (let i = 0; i < allunlockables.length; i++) {
   if (
     !allunlockables[i].Properties.ItemSize &&
     allunlockables[i].Properties.LoadoutSlot &&
-    allunlockables[i].Properties.LoadoutSlot === "gear"
+    (allunlockables[i].Properties.LoadoutSlot === "gear" ||
+      allunlockables[i].Properties.LoadoutSlot === "concealedweapon" ||
+      allunlockables[i].Properties.LoadoutSlot === "carriedweapon")
   ) {
     console.log(allunlockables[i]);
   }
@@ -36,9 +42,14 @@ for (let i = 0; i < allunlockables.length; i++) {
 
 const jsonContent = JSON.stringify(allunlockables, null, 4);
 // After copying output file "allunlockables_with_itemsize.json" back to Peacock directory, be sure to run `yarn prettier` there too (for spacing consistency)
-fs.writeFile("./allunlockables_with_itemsize.json", jsonContent, "utf8", function (err) {
+fs.writeFile(
+  "./allunlockables_with_itemsize.json",
+  jsonContent,
+  "utf8",
+  function (err) {
     if (err) {
-        return console.log(err);
+      return console.log(err);
     }
     console.log("The file was saved!");
-});
+  }
+);
