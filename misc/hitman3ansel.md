@@ -24,7 +24,7 @@
 - Default keybind to open Ansel photo mode is Alt+F2
 - WASD to move the camera
 - Click and drag mouse to change where you are looking
-- F3 to unpause, F2 to pause (note that F2 and Alt+F2 are different keybinds)
+- F2 to unpause, F3 to pause (note that F2 and Alt+F2 are different keybinds)
 - Note that pause and unpause works both inside of Ansel photo mode and outside of it
 - Press Esc to escape Ansel photo mode
 
