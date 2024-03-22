@@ -41,6 +41,7 @@ Type ```legendary launch Eider -SKIP_LAUNCHER --offline``` into command prompt
 - ```legendary install Eider --update-only``` to update Hitman 3 directly through Legendary
 - ```legendary sync-saves``` to sync cloud saves before launch.
 - ```legendary verify-game Eider``` to verify game files (if you have corrupted any files after installing mods etc, getting crashes constantly, etc)
+- ```legendary repair Eider``` (if verifying game files revealed errors)
 
 #### Updating Legendary
 To update `legendary.exe` (not strictly necessary), just revisit https://github.com/derrod/legendary/releases/latest and download the newest version. The terminal will inform you of when there is a new update.
