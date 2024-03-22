@@ -1,4 +1,4 @@
-### Legendary (Epic Games Launcher Alternative) for Hitman 3
+### Legendary (Epic Games Launcher Alternative) for Hitman 3 (aka Hitman WoA)
 Do you hate how Epic Games Launcher hogs disk space/ RAM, and having to wait for the Epic Games Launcher to boot up?
 
 You can technically play Hitman 3 without going through the Epic Game Launcher, by using Legendary: https://github.com/derrod/legendary
@@ -36,11 +36,11 @@ Use ```legendary launch Eider -SKIP_LAUNCHER``` to bypass the Hitman 3 launcher 
 #### Launch Game Offline
 Type ```legendary launch Eider -SKIP_LAUNCHER --offline``` into command prompt
 
-#### Other Useful Commands
-```legendary list-installed --check-updates``` to sync Legendary after updating Hitman 3 via Epic Games.
-```legendary install Eider --update-only``` to update Hitman 3 directly through Legendary
-```legendary sync-saves``` to sync cloud saves before launch.
-```legendary verify-game Eider``` to verify game files (if you have corrupted any files after installing mods etc, getting crashes constantly, etc)
+#### Updating Hitman 3
+- ```legendary list-installed --check-updates``` to sync Legendary after updating Hitman 3 via Epic Games.
+- ```legendary install Eider --update-only``` to update Hitman 3 directly through Legendary
+- ```legendary sync-saves``` to sync cloud saves before launch.
+- ```legendary verify-game Eider``` to verify game files (if you have corrupted any files after installing mods etc, getting crashes constantly, etc)
 
 #### Updating Legendary
 To update `legendary.exe` (not strictly necessary), just revisit https://github.com/derrod/legendary/releases/latest and download the newest version. The terminal will inform you of when there is a new update.
