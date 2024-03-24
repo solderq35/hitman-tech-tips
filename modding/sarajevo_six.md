@@ -13,13 +13,13 @@ Download **Framework Mod** from https://www.nexusmods.com/hitman3/mods/240?tab=f
 
 2. Install the Simple Mod Framework by running the installer.
 
-3. Navigate to the Simple Mod Framework folder within your game directory, e.g. ```C:\Program Files\Epic Games\HITMAN3\Simple Mod Framework```. Open "Mod Manager" from the folder you made in Step 3/ 5, as shown in the above picture. The Mod Manager program will look something like this when opened. If there is a prompt to update the Mod Manager, accept. ![Mod Manager](https://media.discordapp.net/attachments/833505136290299935/927054590443151360/unknown.png?width=1113&height=587)
+3. Navigate to the Simple Mod Framework folder within your game directory, e.g. ```C:\Program Files\Epic Games\HITMAN3\Simple Mod Framework```. Open "Mod Manager" from the folder you made in Step 3/ 5, as shown in the above picture. The Mod Manager program will look something like this when opened. If there is a prompt to update the Mod Manager, accept. ![Mod Manager](https://i.ibb.co/b5PDzRd/modmanager.png)
 
 4. Click on "Enable / Disable Mods", and select the "Hitman 3 Framework Mod" and "Framework Mod" zip files you downloaded back in Step 1. It is important that you select the original zip files.
 
 5. "Offline Image Pack" and "The Sarajevo Six" will now appear in the "Available Mods" tab on the left (refer to Step 6 above). Click on the "Enable" button for Sarajevo Six. 
 
-6. If the Sarajevo Six mod ("Hitman 3 Framework Mod" zip file you downloaded earlier is out of date, you need to update it, e.g. ![](https://media.discordapp.net/attachments/826809653744762932/1070066810336071790/image.png)
+6. If the Sarajevo Six mod ("Hitman 3 Framework Mod" zip file you downloaded earlier) is out of date, you need to update it, e.g. ![](https://i.ibb.co/NWXRtL0/updatesmf.png)
 
 7. Now click "Deploy Mods" button.
  * Note: If you want to play Sarajevo Six offline without Peacock as well, then enable the Offline Image Pack as well.

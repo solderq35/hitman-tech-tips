@@ -12,38 +12,38 @@ The purpose of this CSS script to expand the leaderboard to be wider for a bette
 1. Install Stylus here by selecting "Add to Chrome": https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 
 2. It may be helpful now to pin Stylus to Chrome taskbar so you can more easily access it for the next steps.
-[Example](https://media.discordapp.net/attachments/833505136290299935/938603695715790878/unknown.png?width=481&height=586)
+[Example](https://i.ibb.co/4WY3ktV/stylus1.png)
 
 3. Go to https://www.speedrun.com/hitman_3_extensions. Click on the Stylus icon in taskbar, then "this URL", as shown here: 
-[Example](https://media.discordapp.net/attachments/833505136290299935/938605319691575386/unknown.png?width=1200&height=600)
+[Example](https://i.ibb.co/d0D3yQC/stylus3.png)
 
 4. You will be redirected to a Stylus page where you can add CSS code: 
-[Example](https://media.discordapp.net/attachments/833505136290299935/938605646104907776/unknown.png?width=786&height=613)
+[Example](https://i.ibb.co/r3MyZc8/stylus4.png)
 
 5. Copy and paste the code from here into the Stylus page:
 * [Use this gist for wider leaderboard](https://gist.githubusercontent.com/solderq35/28a8dfeb75ab0d86e9a2edefad24f08d/raw)
 * [Use this gist for general improvements including blocking all ads](https://gist.githubusercontent.com/solderq35/d43d4800af09f928ccb0bd196e2c4c18/raw)
 
 6. You can edit the style's name, if you wish. Then, click on "Save". You are now done!
-[Example](https://media.discordapp.net/attachments/833505136290299935/938608753215938570/unknown.png?width=689&height=613)
+[Example](https://i.ibb.co/qmJp23C/stylus5.png)
 
 7. You can turn the custom CSS on and off at any moment, by clicking on the extension and checking/ unchecking the script.
-[Example](https://media.discordapp.net/attachments/833505136290299935/938767908060950538/unknown.png)
+[Example](https://i.ibb.co/R9zTVkV/stylus6.png)
 
 8. If you wish to customize this CSS further, you can do so by redoing step 5-6, and editing the code to your liking. The code has been commented to show which parts are necessary for wider leaderboards and which parts are more subjective. 
 
 ## Manage Multiple Styles
 Exclude overarching domains from subdomains (e.g. exclude speedrun.com style from speedrun.com/hitman_3_extensions style) like so:
-* [Step 1](https://media.discordapp.net/attachments/1018323831468851202/1104439020643164321/image.png)
-* [Step 2](https://media.discordapp.net/attachments/1018323831468851202/1104439109025550416/image.png)
+* [Step 1](https://i.ibb.co/sspKNgY/stylus7.png)
+* [Step 2](https://i.ibb.co/Mgq8H8s/stylus8.png)
 
 See your styles and what domains they cover here
-* [Step 1](https://media.discordapp.net/attachments/1018323831468851202/1104439587444641863/image.png)
-* [Step 2](https://media.discordapp.net/attachments/1018323831468851202/1104439987556061324/image.png)
+* [Step 1](https://i.ibb.co/4pXczwZ/stylus9.png)
+* [Step 2](https://i.ibb.co/RBXZyt1/stylus10.png)
 
 ## General Debug Tips
 
 Right click -> Inspect Element on browser page of the leaderboard page you wish to edit the look of, then go to the Styles tab in the Inspect Element page, to see which styles you need to edit to affect the website elements shown on screen. 
-[Example](https://media.discordapp.net/attachments/833505136290299935/938728006371917834/unknown.png?width=1036&height=587)
+[Example](https://i.ibb.co/nMRZHN6/stylus11.png)
 
 Basic CSS tutorials: https://www.w3schools.com/css/

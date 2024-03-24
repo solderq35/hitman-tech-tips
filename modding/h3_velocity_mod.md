@@ -4,11 +4,11 @@
 
 Extract (unzip) `Velocity-GoesInHitmanRetailFolder` (https://www.mediafire.com/file/74fwfhlk8umzqq7/Velocity-GoesInHitmanRetailFolder.zip/file).
 
-Copy the `mods` folder and the four other files inside the `Velocity-GoesInHitmanRetailFolder` folder, as shown in this screenshot (https://media.discordapp.net/attachments/833505136290299935/948872685058928640/unknown.png) to your HITMAN3/Retail folder (default path: C:\Program Files\Epic Games\HITMAN3\Retail).
+Copy the `mods` folder and the four other files inside the `Velocity-GoesInHitmanRetailFolder` folder, as shown in this screenshot (https://i.ibb.co/t2XPz81/velocitymod1.png) to your HITMAN3/Retail folder (default path: C:\Program Files\Epic Games\HITMAN3\Retail).
 
 Launch Game, go into a level.
 Press  `~`  key. Click `Toggle Velocity`.
-Ex: https://media.discordapp.net/attachments/833505136290299935/948881048836653066/unknown.png?width=1038&height=586
+Ex: ![](https://i.ibb.co/DVXbfXV/toggle.png)
 
 Press  `~` again to collapse the mod menu and move around, as soon as the velocity values show up in the top right.
 

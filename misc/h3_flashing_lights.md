@@ -11,6 +11,6 @@ Click download and run the executable.
 2. Keep the current Nvidia drivers, but you need to turn on Vsync in the Nvidia control panel, for Hitman 3. You can keep vsync off in-game, but in nvidia control panel turn it on (see below image).
 The bug seems somewhat related to vsync. NOTE: You may have to redo this step every time you restart your PC.
 
-![Nvidia Control Panel](https://media.discordapp.net/attachments/639225834124738560/991949188260712488/unknown.png?width=843&height=670)
+![Nvidia Control Panel](https://i.ibb.co/Csp098t/nvidiapanel.png)
 
 **Make sure to restart Hitman 3 after trying either of the changes above to make sure they take effect.**

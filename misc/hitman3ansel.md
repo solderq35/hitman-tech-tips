@@ -12,12 +12,12 @@
 ##### Installation (CheatEngine version)
 **Make sure to follow the instructions below in order, or else it may not work. Steps 3-7 must be repeated each time you want to use Ansel Freecam No Collision.**
 
-1. Download the latest CheatEngine script from [here](https://cdn.discordapp.com/attachments/639225834124738560/1000834903635664997/Hitman3-3.110.0.CT).
+1. Download [this CheatEngine script](https://www.mediafire.com/file/oedaf8k7ics5ssy/Hitman3-3.110.0.CT/file) (**note**: This is v3.110.0 of the H3 Freecam CheatEngine script, which may or may not be the most current version in the future. Refer to [Glacier Modding Discord](https://discord.gg/6UDtuYhZP6) for updates)
 2. Download [CheatEngine](https://www.cheatengine.org/downloads.php) if you don't already have it. Click on the downloaded ```.exe``` file to install CheatEngine. If you get asked to install McAfee Antivirus or any other unrelated software, decline.
-3. Start CheatEngine. **(At this point, Hitman 3 should not be open).** Click on the "open cheat table" button, [as shown here](https://media.discordapp.net/attachments/833505136290299935/945435759740071956/unknown.png). Navigate to where you downloaded the Ansel ```.ct``` file from Step 1 and open it.
+3. Start CheatEngine. **(At this point, Hitman 3 should not be open).** Click on the "open cheat table" button, [as shown here](https://i.ibb.co/MDn2Bjw/cheattable.png). Navigate to where you downloaded the Ansel ```.ct``` file from Step 1 and open it.
 4. Now start Hitman 3.
-5. Click on the "open a process" button, [as shown here](https://media.discordapp.net/attachments/833505136290299935/945435991475380234/unknown.png). Navigate to Hitman 3 in the Process List menu that opens up. Click "Open".
-6. Now, tick each checkbox [shown here](https://media.discordapp.net/attachments/555224758837444632/1014965897888284672/unknown.png?width=658&height=669). 
+5. Click on the "open a process" button, [as shown here](https://i.ibb.co/d76zzQ6/ctstep1.png). Navigate to Hitman 3 in the Process List menu that opens up. Click "Open".
+6. Now, tick each checkbox [shown here](https://i.ibb.co/WWVwXJC/ctstep2.png). 
 7. Now go to Hitman 3, and start a level. Read the "How to Use" section below on what to do next.
 
 ##### How to Use (CheatEngine version)
@@ -45,10 +45,10 @@
 3. Find HITMAN3.exe application in the Retail folder, and open it in HxD.
 
 4. Type Control F to open the search application. Go to "hex-values" search option.
-![test1](https://media.discordapp.net/attachments/833505136290299935/879779135587753994/unknown.png?width=1159&height=587)
+![test1](https://i.ibb.co/nrmhB9D/hex1.png)
 
 5. Search for "83 F8 0F 75 1C 0F 54". 
-![test](https://media.discordapp.net/attachments/791461067925618698/879770382213738506/unknown.png?width=788&height=586)
+![test](https://i.ibb.co/gDgZFXz/hex2.png)
 
 6. Highlight the "75" in the "83 F8 0F 75 1C 0F 54" sequence and type "EB" to change the value. 
 The string should now read as "83 F8 0F **EB** 1C 0F 54".

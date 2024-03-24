@@ -31,9 +31,9 @@ Answer: Not Exactly, contrary to my previous belief.
 * As you can see [here](https://youtu.be/dCOS9-Cj5RA?t=543), I was able to shoot a dance floor NPC slightly before Diana Dance Exit appeared, and was still able to unlock car exit.
   * Remember, the Mendoza exit mechanics remain the same until you have panicked Diana or used Diana exit at least once. This could have happened on the first playthrough of new account.
 
-* Note: In the above clip, Diana **is already on the Dance Floor before I shot any NPC there)**, even though I forgot to show Diana in Instinct. 
-  * [Closer Picture](https://media.discordapp.net/attachments/833505136290299935/981330844344004648/unknown.png?width=1104&height=586)
-  * [You can then see her fleeing the dance floor also](https://media.discordapp.net/attachments/833505136290299935/981331228873588816/unknown.png?width=1398&height=586)
+* Note: In the above clip, Diana **is already on the Dance Floor (before I shot any NPC there)**, even though I forgot to show Diana in Instinct. 
+  * [Closer Picture](https://i.ibb.co/yXNd22j/mendozashot.png)
+  * [You can then see her fleeing the dance floor also](https://i.ibb.co/9hmNG8F/mendozashot2.png)
 
 ### TL;DR of the Investigation
 * Diana must be on the dance floor before any panics on dance floor are created, otherwise no other exits will be unlocked on the new copy of the game. 
