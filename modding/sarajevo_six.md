@@ -13,7 +13,7 @@ Download **Framework Mod** from https://www.nexusmods.com/hitman3/mods/240?tab=f
 
 2. Install the Simple Mod Framework by running the installer.
 
-3. Navigate to the Simple Mod Framework folder within your game directory, e.g. ```C:\Program Files\Epic Games\HITMAN3\Simple Mod Framework```. Open "Mod Manager" from the folder you made in Step 3/ 5, as shown in the above picture. The Mod Manager program will look something like this when opened. If there is a prompt to update the Mod Manager, accept. ![Mod Manager](https://i.ibb.co/b5PDzRd/modmanager.png)
+3. Navigate to the Simple Mod Framework folder within your game directory, e.g. ```C:\Program Files\Epic Games\HITMAN3\Simple Mod Framework```. Open "Mod Manager" from the folder you made in Step 3/ 5, as shown in the above picture. The Mod Manager program will look something like this when opened. If there is a prompt to update the Mod Manager, accept. ![Mod Manager](https://i.ibb.co/b5PDzRd/modmanager.PNG)
 
 4. Click on "Enable / Disable Mods", and select the "Hitman 3 Framework Mod" and "Framework Mod" zip files you downloaded back in Step 1. It is important that you select the original zip files.
 
