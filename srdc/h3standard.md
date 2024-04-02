@@ -1,7 +1,6 @@
 ## H3 Standard Category Banned Techniques/ Glitches
 * Any trick that is not possible in current Hitman 3 patch is banned (which can result in old submissions being moved to No Longer Possible Category)
 * Tranq glitch is banned (shoot target with Kalmer or use other sedative on them, kill with non-accident method right after, keep SA if body found)
-* Use of Midnight Suit in Mendoza banned (trespassing permissions are bugged)
 * 24 hour in game timer overflow exploit is banned (Example: https://youtu.be/mJyyyYnrXlk?t=1529)
 * Server/ disconnect glitch that results in target "death" without actually killing target is banned (Example: https://youtu.be/IZxoUftRYK8)
 * Server warp/ teleport (Example: https://youtu.be/cW_8nXhbAHg) is banned on highly competitive individual level categories
