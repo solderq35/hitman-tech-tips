@@ -4,12 +4,18 @@ As of November 2023, Discord has updated their policies to now make image / file
 
 More context: https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/
 
-With that being said, I did dig this backup proxy tool from 
-[a Reddit thread](https://www.reddit.com/r/DataHoarder/comments/16zs1gt/comment/kt5sh6h/?utm_source=share&utm_medium=web2x&context=3):
-- https://cdn.discordapp.xyz/
 
-The author mentions some potential security and performance issues with the tool, so I would only advise using the proxy tool to recover old images, download them, 
-and then re-upload the images to a more reliable host, such as:
+With that being said, I did dig these backup proxy tools to recover old Discord image links:
+- https://github.com/ShufflePerson/Discord_CDN
+  - **Still Working as of April 2, 2024** 
+  - Follow README instructions to install dependencies and set the env file, and then run the project as local web app (replace `https://cdn.discordapp.net` or `https://media.discordapp.net` with `http://localhost`
+    - Reference this to get your Discord user token: https://www.androidauthority.com/get-discord-token-3149920/
+- https://cdn.discordapp.xyz/
+  - **Broken as of April 2, 2024**
+  - This version was working without need for local compilation (just needed to replace `.com` with `.xyz` for `cdn.discordapp.net` and `media.discordapp.net`)
+
+
+After downloading the old Discord images from the new proxied link (right click > save as), re-upload the images to a more reliable host, such as:
 - https://imgbb.com/
   - What I usually use nowadays
 - https://imgur.com/
