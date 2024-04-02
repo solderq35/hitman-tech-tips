@@ -1,5 +1,6 @@
 ## H3 Standard Category Banned Techniques/ Glitches
-* Any trick that is not possible in current Hitman 3 patch is banned (which can result in old submissions being moved to No Longer Possible Category)
+* Any trick that is not possible in current Hitman 3 patch is banned from Standard category (which can result in old submissions being moved to No Longer Possible Category)
+  * More info on patches: https://hitruns-wiki.vercel.app/docs/h3_patch_notes#no-longer-possible-runs
 * Tranq glitch is banned (shoot target with Kalmer or use other sedative on them, kill with non-accident method right after, keep SA if body found)
 * 24 hour in game timer overflow exploit is banned (Example: https://youtu.be/mJyyyYnrXlk?t=1529)
 * Server/ disconnect glitch that results in target "death" without actually killing target is banned (Example: https://youtu.be/IZxoUftRYK8)
@@ -9,7 +10,7 @@
 
 ### Disclaimer/ Explanation
 **This is not intended to be a "glitchless" nor a "no major glitches" ruleset.** It is banning a few specific glitches deemed harmful to competition by the community, based on community polls and discussion in the past. The reasoning for the banned glitches are given below:
-* Old patch tricks are banned because it is very difficult if not impossible to downpatch this game (at least with a rating screen). Ensuring that all records are possible on current patch ensures fair competition.
+* Although [downpatching is possible on PC (Steam and Epic)](https://hitruns-wiki.vercel.app/docs/downpatching), old patch tricks are banned in order to maintain accessibility to console platform player and to avoid splitting the playerbase between patches, among other reasons
 * [Tranq glitch](https://youtu.be/KFrqJAM6vqI?t=8) is banned due to longstanding community opinion to do so. It is probably the most arbitrary glitch ban listed here.
   *  More in-depth explanation of tranq glitch: Sedate target with Kalmer dart gun/ sedative poison/ goldbrick proximity mine, then kill target with non-accident method and retain Silent Assassin rating even if body is found
   * Many players feel that tranq glitch cheapens the challenge of Silent Assassin too much, as it makes any kill a free Silent Assassin kill as long as you are able to find an angle to shoot the target with the tranq pistol.
