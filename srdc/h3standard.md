@@ -10,7 +10,7 @@
 
 ### Disclaimer/ Explanation
 **This is not intended to be a "glitchless" nor a "no major glitches" ruleset.** It is banning a few specific glitches deemed harmful to competition by the community, based on community polls and discussion in the past. The reasoning for the banned glitches are given below:
-* Although [downpatching is possible on PC (Steam and Epic)](https://hitruns-wiki.vercel.app/docs/downpatching), old patch tricks are banned in order to maintain accessibility to console platform player and to avoid splitting the playerbase between patches, among other reasons
+* Although [downpatching is possible on PC (Steam and Epic)](https://hitruns-wiki.vercel.app/docs/downpatching), old patch tricks are banned in order to maintain accessibility to console platform players and to avoid splitting the playerbase between patches, among other reasons
 * [Tranq glitch](https://youtu.be/KFrqJAM6vqI?t=8) is banned due to longstanding community opinion to do so. It is probably the most arbitrary glitch ban listed here.
   *  More in-depth explanation of tranq glitch: Sedate target with Kalmer dart gun/ sedative poison/ goldbrick proximity mine, then kill target with non-accident method and retain Silent Assassin rating even if body is found
   * Many players feel that tranq glitch cheapens the challenge of Silent Assassin too much, as it makes any kill a free Silent Assassin kill as long as you are able to find an angle to shoot the target with the tranq pistol.
