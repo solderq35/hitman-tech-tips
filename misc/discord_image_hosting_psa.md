@@ -5,7 +5,7 @@ As of November 2023, Discord has updated their policies to now make image / file
 More context: https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/
 
 
-With that being said, I did dig these backup proxy tools to recover old Discord image links:
+With that being said, I did dig up these backup proxy tools to recover old Discord image links:
 - https://github.com/ShufflePerson/Discord_CDN
   - **Still Working as of April 2, 2024** 
   - Follow README instructions to install dependencies and set the env file, and then run the project as local web app (replace `https://cdn.discordapp.net` or `https://media.discordapp.net` with `http://localhost`
