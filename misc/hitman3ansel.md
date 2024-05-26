@@ -1,8 +1,8 @@
-## Hitman 3 Ansel Freecam Unlock Installation / Use Guide
+# Hitman 3 Ansel Freecam Unlock Installation / Use Guide
 
 **If you need further troubleshooting please ask in [Glacier Modding Discord](https://discord.gg/6UDtuYhZP6)**
 
-### CheatEngine Freecam
+## CheatEngine Freecam
 
 - PC, **Nvidia Graphics Card (that can run Ansel) Required**
   - May be incompatible with Linux
@@ -10,7 +10,7 @@
 - Can unpause or pause the game while in freecam mode, enabling you to see NPC reactions etc. in real time from far away.
 - May crash more than the Hex Edit version.
 
-##### Installation (CheatEngine version)
+### Installation (CheatEngine version)
 
 **Make sure to follow the instructions below in order, or else it may not work. Steps 3-7 must be repeated each time you want to use Ansel Freecam No Collision.**
 
@@ -22,7 +22,7 @@
 6. Now, tick each checkbox [shown here](https://i.ibb.co/WWVwXJC/ctstep2.png).
 7. Now go to Hitman 3, and start a level. Read the "How to Use" section below on what to do next.
 
-##### How to Use (CheatEngine version)
+### How to Use (CheatEngine version)
 
 - Default keybind to open Ansel photo mode is Alt+F2
 - WASD to move the camera
@@ -31,7 +31,7 @@
 - Note that pause and unpause works both inside of Ansel photo mode and outside of it
 - Press Esc to escape Ansel photo mode
 
-### Hex Edit Freecam
+## Hex Edit Freecam
 
 - PC, **Nvidia Graphics Card (that can run Ansel) Required**
   - May be incompatible with Linux
@@ -39,9 +39,7 @@
 - Camera will stay paused while in freecam mode (with no way to unpause), unlike CheatEngine version.
 - Generally more stable than the No Collision version.
 
-##### Installation (Hex Edit version)
-
-###### Automatic Installation (Recommended)
+### Automatic Installation (Hex Edit version, Recommended)
 
 **You may need to repeat steps x-y after each Hitman 3 update. Otherwise, you do not have to repeat the installation steps after doing it once.**
 
@@ -57,13 +55,13 @@
 3. Run the **automatic H3 ansel patcher** from your game folder.
 
 4. You should see a terminal or command line and a small windows saying "Would you like to unlock Ansel".
-   ![example](https://ibb.co/vh5Gbqj)
+   ![example](https://i.ibb.co/kJnfpBS/img-2024-05-24-18-01-08.png)
 
 5. Click "Yes", and if you want to have no collision, click "Yes" again.
 
 6. Ansel should be unlocked! You may now open up Hitman 3 as normal. Read the "How to Use" section below on what to do next.
 
-###### Manual Installation
+### Manual Installation (Hex Edit version)
 
 **You may need to repeat steps 2-7 after each Hitman 3 update. Otherwise, you do not have to repeat the installation steps after doing it once.**
 
@@ -84,14 +82,14 @@
 
 7. Click on File -> Save in HxD. Close HxD and open up Hitman 3 as normal. Read the "How to Use" section below on what to do next.
 
-##### How to Use (Hex Edit version)
+### How to Use (Hex Edit version)
 
 - Default keybind to open Ansel photo mode is Alt+F2
 - WASD to move the camera
 - Click and drag mouse to change where you are looking
 - Press Esc to escape Ansel photo mode
 
-### Modding SDK Freecam
+## Modding SDK Freecam
 
 - PC, **Supported by all Graphics Cards (Including AMD)**
   - Compatible with Linux (see installation steps below).
@@ -100,12 +98,12 @@
   - Pause screen overlay may may make it difficult to see if investigating something timing sensitive, such as for speedrun strats etc.
   - Windows users (only for AMD, Nvidia users should use CheatEngine or Hex Edit versions above) may be able to combine this freecam with CheatEngine or WeMod to freeze game time, to avoid the in-game pause screen overlay.
 
-##### Installation (Modding SDK version)
+### Installation (Modding SDK version)
 
 - https://github.com/OrfeasZ/ZHMModSDK/blob/master/README.md
   - For Linux, add `WINEDLLOVERRIDES="dinput8=n,b" %command%` to the game launch options (works for Steam Proton).
 
-##### How to Use (Modding SDK version)
+### How to Use (Modding SDK version)
 
 - For full instructions: https://github.com/OrfeasZ/ZHMModSDK/tree/master/Mods/FreeCam
 
@@ -122,7 +120,7 @@ Additional tips:
 - You can press `~` key on keyboard to bring up the mod menu. You can turn off the in-game freecam instructions this way (click on the "X" button on upper left).
 - You can also enable or disable other SDK mods from the mod menu.
 
-#### Credits
+## Credits
 
 - The No Collision Freecam mod is from HMBM47 from the Glacier Modding Discord
 - The Hex Edit Freecam method is based on the guide from https://www.hitmanforum.com/t/ansel-unlock-pc-guide/246
