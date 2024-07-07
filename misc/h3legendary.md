@@ -33,6 +33,9 @@ Then type ```legendary install Eider```. You may have to also repeat this step f
 After you have either installed or imported Hitman 3, type ```legendary launch Eider``` to launch the game. 
 Use ```legendary launch Eider -SKIP_LAUNCHER``` to bypass the Hitman 3 launcher screen. 
 
+#### Launch Game Without Version Check
+For running older versions of the game (not updated to latest patch): Add `--skip-version-check` argument
+
 #### Launch Game Offline
 Type ```legendary launch Eider -SKIP_LAUNCHER --offline``` into command prompt
 
