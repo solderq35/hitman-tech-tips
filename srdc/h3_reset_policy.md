@@ -1,8 +1,9 @@
 ## Reset Policy for Bangkok Default Start and Sgail Chapel Start
-  * If the player resets mid-cutscene into the level at Bangkok Default Start or Sgail Chapel Start, the reset penalty may be arbitrarily increased (up to +10 seconds penalty) at moderator discretion, if it appears that the player is resetting to farm good cutscene RNG.
+  * If the player resets mid-cutscene into the level a +1 second penalty will applied. When at Bangkok Default Start, Sgail Chapel Start or on a Sarajevo Six level where targets have RNG starting position (This penalty includes resetting after skipping the cutscene and immediately checking the targets position), the reset penalty may be arbitrarily increased (up to +10 seconds penalty) at moderator discretion, if it appears that the player is resetting to farm good cutscene RNG.
     * The rule for Bangkok Riverside Start runs is due to a cutscene exploit where you can tell Jordan cycle RNG based on how he moves in the cutscene, and reset mid-cutscene if there is bad Jordan RNG for zero in-game time penalty.
 Example: https://www.speedrun.com/hitman_3/run/m3n08pgy
     * The rule for Sgail Chapel start is because it is possible for the firepit to be randomly lit before the Sgail level even loads, and you can observe if the firepit is lit via the opening cutscene, resetting mid-cutscene until the firepit is pre-lit.
+    * The rule for Sarajevo Six is because many of the levels' targets have RNG starting positions, and this can be visible during the cutscene or immediately after skipping the cutscene and opening the map. 
 
 ## Reset Policy for runs with game crash or disconnection error
 The following cases will result in being able to reset the level with no time penalty, no matter how far you were into the level:
