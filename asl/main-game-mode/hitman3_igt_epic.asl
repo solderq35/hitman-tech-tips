@@ -17,7 +17,7 @@
 
 */
 
-/* 
+/*
     LICENSE (Zlib)
 
     Copyright (c) 2022 sandro-h
@@ -84,7 +84,7 @@
     // to the value of IGT, counts again and pauses when player regains control.
     // 48 8B 0D ? ? ? ? F3 0F 10 0D ? ? ? ? 48 81 C1 ? ? ? ? 48 8B 7C 24 ? - 3.110.1.0 sig
     float LEVEL_CST: 0x29C1F68, 0x898;
-    
+
     // Alternate ingame time that starts after cutscene. Works for everything except start of Nightcall.
     // Does NOT stop at end-level cutscene, only when next screen starts loading.
     // 48 8B 1D ? ? ? ? 48 8D 4D ? 0F 29 B4 24 ? ? ? ? - 3.100.1 sig
@@ -101,14 +101,15 @@ state("HITMAN3", "Epic")
 {
     // Total ingame time since start of level (including starting cutscene)
     // 48 8B 0D ? ? ? ? 48 89 15 ? ? ? ? 48 89 05 ? ? ? ? - 3.110.1.0 sig
-    float LEVEL_IGT: 0x316DCC8, 0x108;
+    // 48 8B 0D ? ? ? ? 48 89 05 ? ? ? ? 48 89 15 ? ? ? ? - Dec 14, 2024
+    float LEVEL_IGT: 0x3040338, 0x108;
 
     // Time spent in starting cutscene or other scenes without player control, e.g. walking through curtain in Dubai.
     // Starts counting along with IGT, but pauses once cutscene ends. When player loses control in game, it jumps
     // to the value of IGT, counts again and pauses when player regains control.
     // 48 8B 0D ? ? ? ? F3 0F 10 0D ? ? ? ? 48 81 C1 ? ? ? ? 48 8B 7C 24 ? - 3.110.1.0 sig
-    float LEVEL_CST: 0x30F3828, 0x898;
-    
+    float LEVEL_CST: 0x2FC6C48, 0x898;
+
     // Alternate ingame time that starts after cutscene. Works for everything except start of Nightcall.
     // Does NOT stop at end-level cutscene, only when next screen starts loading.
     // 48 8B 1D ? ? ? ? 48 8D 4D ? 0F 29 B4 24 ? ? ? ? - 3.100.1 sig
